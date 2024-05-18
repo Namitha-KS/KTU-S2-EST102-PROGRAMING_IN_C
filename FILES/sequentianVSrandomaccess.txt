@@ -1,5 +1,0 @@
-Sequential file access is the method employed in tape drives where the files are accessed in a sequential manner. So if you have to get a file in the end of the tape you have to start from the beginning till it reaches the beginning of the file.
-
-Random access files are similar to the one in Hard Disks and Optical drives, wherever the files is placed it will go to that particular place and retrieve it.
-
-Accessing data sequentially is much faster than accessing it randomly because of the way in which the disk hardware works.
